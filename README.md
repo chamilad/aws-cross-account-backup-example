@@ -30,3 +30,6 @@ database instances.
    output values for the variables (either as a Terraform `tfvars` file or
    command line inputs).
 1. Check back in a couple of hours for the results!
+
+> The module structure is intentionally kept simple. If you're adapting this
+> into your code, change the provider configuration as needed.
